@@ -3,5 +3,8 @@ test for software engineering
 author : jongmin ha
 
 task #1. local conection is enabled.
-task #2. jongmin push test 
+
+task #2. gyubeom push test.
+
+task #3. jongmin push test.
 
